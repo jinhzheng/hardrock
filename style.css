@@ -1,0 +1,17 @@
+.ui.topmenu.menu{
+  background-color: black;
+  margin: 0px;
+  border-radius: 0px;
+  color: #ccc;
+}
+.footer.background{
+  background-color: #f96d21;
+  text-align: center;
+  color: white;
+}
+.fitted.item{
+  color: white;
+}
+.text{
+  font-size: 25px;
+}
